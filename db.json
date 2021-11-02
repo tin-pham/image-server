@@ -4,6 +4,11 @@
       "id": 1,
       "name": "Cheongsam Girl",
       "url": "https://github.com/tin-pham/image-server/blob/master/assets/Cheongsam%20Girl.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Miku Firework",
+      "url": "https://github.com/tin-pham/image-server/blob/master/assets/Miku%20Firework.jpg"
     }
   ]
 }
