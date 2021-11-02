@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "Cheongsam Girl",
-      "url": "https://github.com/tin-pham/image-server/blob/master/assets/Cheongsam%20Girl.jpg"
+      "url": "https://res.cloudinary.com/drdwbh0v8/image/upload/v1635858974/asa-images/Miku_Firework_z519hf.jpg"
     },
     {
       "id": 2,
       "name": "Miku Firework",
-      "url": "https://github.com/tin-pham/image-server/blob/master/assets/Miku%20Firework.jpg"
+      "url": "https://res.cloudinary.com/drdwbh0v8/image/upload/v1635858970/asa-images/Cheongsam_Girl_sv7vfo.jpg"
     }
   ]
 }
