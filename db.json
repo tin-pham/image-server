@@ -2,13 +2,15 @@
   "images": [
     {
       "id": 1,
-      "name": "Cheongsam Girl",
-      "url": "https://res.cloudinary.com/drdwbh0v8/image/upload/v1635858974/asa-images/Miku_Firework_z519hf.jpg"
+      "name": "Miku Firework",
+      "fullImage": "https://res.cloudinary.com/drdwbh0v8/image/upload/v1635902247/asa-images/Miku%20Firework/Miku_Firework-full.webp",
+      "smallImage": "https://res.cloudinary.com/drdwbh0v8/image/upload/v1635902363/asa-images/Miku%20Firework/Miku_Firework-small.webp"
     },
     {
       "id": 2,
-      "name": "Miku Firework",
-      "url": "https://res.cloudinary.com/drdwbh0v8/image/upload/v1635858970/asa-images/Cheongsam_Girl_sv7vfo.jpg"
+      "name": "Cheongsam Girl",
+      "fullImage": "https://res.cloudinary.com/drdwbh0v8/image/upload/v1635901682/asa-images/Cheongsam%20Girl/Cheongsam_Girl-full.webp",
+      "smallImage": "https://res.cloudinary.com/drdwbh0v8/image/upload/v1635901154/asa-images/Cheongsam%20Girl/Cheongsam_Girl-small.webp"
     }
   ]
 }
