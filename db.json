@@ -4,19 +4,22 @@
       "id": 1,
       "name": "Miku Firework",
       "fullImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635948062/asa-images/Miku%20Firework/Miku_Firework-full.webp",
-      "smallImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635948063/asa-images/Miku%20Firework/Miku_Firework-small.webp"
+      "smallImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635948063/asa-images/Miku%20Firework/Miku_Firework-small.webp",
+      "pixiv": "https://www.pixiv.net/en/artworks/92593435"
     },
     {
       "id": 2,
       "name": "Cheongsam Girl",
       "fullImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635948262/asa-images/Cheongsam%20Girl/Cheongsam_Girl-full.webp",
-      "smallImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635948263/asa-images/Cheongsam%20Girl/Cheongsam_Girl-small.webp"
+      "smallImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635948263/asa-images/Cheongsam%20Girl/Cheongsam_Girl-small.webp",
+      "pixiv": "https://www.pixiv.net/en/artworks/90084990"
     },
     {
       "id": 3,
       "name": "Gura",
       "fullImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635949082/asa-images/Gura/Gura-full.webp",
-      "smallImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635949083/asa-images/Gura/Gura-small.webp"
+      "smallImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635949083/asa-images/Gura/Gura-small.webp",
+      "pixiv": "https://www.pixiv.net/en/artworks/93623905"
     }
   ]
 }
