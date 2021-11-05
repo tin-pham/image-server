@@ -20,6 +20,12 @@
       "fullImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635993791/asa-images/Gura/Gura-full.webp",
       "smallImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1635993578/asa-images/Gura/Gura-small.webp",
       "pixiv": "https://www.pixiv.net/en/artworks/93623905"
+    },
+    {
+      "id": 4,
+      "name": "Bla nyanya Yui",
+      "fullImage": "https://drive.google.com/file/d/14HiucRCVN4ANkjprFGV3kvKmIPrMZnZa/view?usp=sharing",
+      "smallImage": "https://res.cloudinary.com/dqp5hkhbv/image/upload/v1636076864/asa-images/Bla%20nyanya%20Yui/ezgif.com-gif-maker_6_awsz5g.webp"
     }
   ]
 }
